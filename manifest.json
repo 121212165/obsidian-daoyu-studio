@@ -1,0 +1,9 @@
+{
+  "id": "daoyu-studio",
+  "name": "Daoyu Studio",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Title generator and opening-paragraph (daoyu) checker for Chinese web-fiction: four style template libraries, fill-in title patterns, and a rules-based self-check scoring panel.",
+  "author": "121212165",
+  "isDesktopOnly": true
+}
